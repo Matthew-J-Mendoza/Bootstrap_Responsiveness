@@ -1,0 +1,27 @@
+.column1{
+    background-color: #467aa8;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.column2{
+    background-color: #79e079;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.column3{
+    background-color: #f0ad4e;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+body{
+    background-color: #f4f8fa;
+}
